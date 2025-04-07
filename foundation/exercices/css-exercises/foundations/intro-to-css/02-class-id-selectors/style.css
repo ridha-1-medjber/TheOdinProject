@@ -1,0 +1,18 @@
+.odd {
+    background-color: #ffa7a7;
+    font-family: Verdana ," DajaVu Sans " ,sans-serif;
+}
+
+#pair {
+    color:rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.odd1 {
+    font-size: 24px;
+}
+
+#pair1 {
+    background-color: rgb(128, 255, 128);
+    font-weight: bold;
+}
